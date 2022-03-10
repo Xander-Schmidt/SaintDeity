@@ -1,1 +1,1 @@
-<center><b top="50"> - Hello World - </b></center>
+<center><b left="50" positon="absolute"> - Hello World - </b></center>
